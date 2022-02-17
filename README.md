@@ -1,2 +1,2 @@
 # igo-project
-A fullstack job search application
+Fullstack job search application
